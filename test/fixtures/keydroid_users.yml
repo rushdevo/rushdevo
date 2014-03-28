@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  keybase_id: MyString
+  keydroid_id: MyString
+
+two:
+  keybase_id: MyString
+  keydroid_id: MyString
